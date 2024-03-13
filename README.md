@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un reportorio de prueba del modulo 2 del Prep Course de Henry
+Sandra Garcia  Este poryecto es una prueba de creacion y clonacion del github a mi escritorio
